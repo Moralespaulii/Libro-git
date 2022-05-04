@@ -1,2 +1,1 @@
-usuario = YoNoFui
-correo = ezequielbenitez@epet12smandes.edu.ar
+YoNoFui: ezequielbenitez@epet12smandes.edu.ar
